@@ -10,6 +10,6 @@ Here's a brief list of the things I like to tinker with:\
 &emsp; - Discord Bots and other APIs\
 &emsp; - Linux/VMs and running a Minecraft server on a dedicated machine using Ubuntu\
 &emsp; - GNS3 once in a while, I took Cisco CCNA/CCNP in high school\
-&emsp; - Fixing physical day to day problems with Macgyver-esque solutions\
+&emsp; - Fixing physical day to day problems with Macgyver-esque solutions
 
 Feel free to sift through the snippets of code I've posted on here!
