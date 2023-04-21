@@ -12,3 +12,6 @@ Here's a brief list of the things I like to tinker with:\
 &emsp; - GNS3/Wireshark/Putty once in a while, I took Cisco CCNA/CCNP in high school
 
 Feel free to sift through the snippets of code I've posted on here!
+
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.2.1
