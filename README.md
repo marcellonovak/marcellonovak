@@ -2,7 +2,7 @@ Hi, I'm Marcello Novak.
 
 I'm currently a college freshman at ERAU prescott, majoring in Computer Engineering Robotics.
 
-Currently I'm working with the embry riddle 
+Currently I'm working with a research team with my school under a research grant to predict thunderstorms! [Read more here](https://news.erau.edu/headlines/embry-riddle-researchers-use-machine-learning-to-tackle-monsoon-season)
 
 &emsp; - Intermediate stuff using Python, JavaScript, SQL, and C++\
 &emsp; - Discord Bots and other APIs\
