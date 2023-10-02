@@ -4,10 +4,10 @@ I'm currently a college freshman at ERAU prescott, majoring in Computer Engineer
 
 Currently I'm working to predict thunderstorms with a school research team under a grant, [Read More Here](https://news.erau.edu/headlines/embry-riddle-researchers-use-machine-learning-to-tackle-monsoon-season)
 
-Some of the things I'm currently interested in:\
-&emsp; - Advanced data structures and optimization in Python\
-&esmp; - Learning ReactJS to use as a framework for [My Portfolio](https://marcellonovak.com)\
-&emsp; - Linux/VMs, creating domain controllers and a NAS, to freshen my CCNP skills\
+Some of the things I'm currently interested in: \
+&emsp; - Advanced data structures and optimization in Python \
+&esmp; - Learning ReactJS to use as a framework for [My Portfolio](https://marcellonovak.com) \
+&emsp; - Linux/VMs, creating domain controllers and a NAS, to freshen my CCNP skills
 
 Feel free to sift through the snippets of code I've posted on here!
 
