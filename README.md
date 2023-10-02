@@ -12,3 +12,6 @@ Here's a brief list of the things I like to tinker with:\
 &emsp; - GNS3/Wireshark/Putty once in a while, I took Cisco CCNA/CCNP in high school
 
 Feel free to sift through the snippets of code I've posted on here!
+
+![Snake animation]
+(https://github.com/{{marcellonovak}}/{{marcellonovak}}/blob/output/github-contribution-grid-snake.svg)
