@@ -2,7 +2,7 @@ Hi, I'm Marcello Novak.
 
 I'm currently a college freshman at ERAU prescott, majoring in Computer Engineering Robotics.
 
-Currently I'm working with a research team with my school under a research grant to predict thunderstorms! [Read More](https://news.erau.edu/headlines/embry-riddle-researchers-use-machine-learning-to-tackle-monsoon-season)
+Currently I'm working to predict thunderstorms with a school research team under a grant, [Read More Here](https://news.erau.edu/headlines/embry-riddle-researchers-use-machine-learning-to-tackle-monsoon-season)
 
 Some of the things I'm currently interested in:
 &emsp; - Advanced data structures and optimization in Python
