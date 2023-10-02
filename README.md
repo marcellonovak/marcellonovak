@@ -15,6 +15,6 @@ Feel free to sift through the snippets of code I've posted on here!
 
 <div> 
   
-  ![Snake Animation](https://github.com/marcellonovak/marcellonovak/blob/output/github-contribution-grid-snake.svg)
+  ![Snake Animation](https://github.com/marcellonovak/marcellonovak/blob/output/github-contribution-grid-snake.gif)
 
 </div>
