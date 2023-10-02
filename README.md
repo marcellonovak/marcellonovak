@@ -2,12 +2,12 @@ Hi, I'm Marcello Novak.
 
 I'm currently a college freshman at ERAU prescott, majoring in Computer Engineering Robotics.
 
-Currently I'm working with a research team with my school under a research grant to predict thunderstorms! [Read more here](https://news.erau.edu/headlines/embry-riddle-researchers-use-machine-learning-to-tackle-monsoon-season)
+Currently I'm working with a research team with my school under a research grant to predict thunderstorms! [Read More](https://news.erau.edu/headlines/embry-riddle-researchers-use-machine-learning-to-tackle-monsoon-season)
 
-&emsp; - Intermediate stuff using Python, JavaScript, SQL, and C++\
-&emsp; - Discord Bots and other APIs\
-&emsp; - Linux/VMs and running a Minecraft server on a dedicated machine using Ubuntu\
-&emsp; - GNS3/Wireshark/Putty once in a while, I took Cisco CCNA/CCNP in high school
+Some of the things I'm currently interested in:
+&emsp; - Advanced data structures and optimization in Python
+&esmp; - Learning ReactJS to use as a framework for [My Portfolio](https://marcellonovak.com)
+&emsp; - Linux/VMs, creating domain controllers and a NAS, to freshen my CCNP skills
 
 Feel free to sift through the snippets of code I've posted on here!
 
