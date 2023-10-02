@@ -10,7 +10,6 @@ Some of the things I'm currently interested in:
 &emsp; - Linux/VMs, creating domain controllers and a NAS, to freshen my CCNP skills
 
 Feel free to sift through the snippets of code I've posted on here!
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcellonovak/marcellonovak/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcellonovak/marcellonovak/output/github-contribution-grid-snake.svg">
