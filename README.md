@@ -25,8 +25,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellonovak&theme=algolia" alt="Top Langs">
   </td>
   </tr>
-
-<<<<<<< HEAD
+  
   <!-- Row for Snake Game -->
   <tr>
     <td colspan="2">
