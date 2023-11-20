@@ -11,8 +11,7 @@ Some of the things I'm currently interested in: \
 
 Feel free to sift through the snippets of code I've posted on here!
 
-[![Marcello's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcellonovak&theme=algolia)](https://github.com/marcellonovak/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellonovak&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellonovak&layout=compact&theme=algolia)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcellonovak/marcellonovak/output/github-contribution-grid-snake-dark.svg">
