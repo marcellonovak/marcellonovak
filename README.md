@@ -3,7 +3,7 @@
   <!-- Left Side: Text Content -->
   <div style="flex: 1;">
     <h2>Hi, I'm Marcello Novak.</h2>
-    <p>I'm currently a college freshman at ERAU Prescott, majoring in Computer Engineering with a minor in Mathematics.</p>
+    <p>I'm currently a sophomore at ERAU Prescott, majoring in Computer Engineering with a minor in Mathematics.</p>
     <p>Recently, my last major project was assisting in weather research with my college. <a href="https://news.erau.edu/headlines/embry-riddle-researchers-use-machine-learning-to-tackle-monsoon-season">Read More Here</a></p>
     <p>Some of the things I'm currently interested in: <br>
        &emsp; - Advanced data structures and optimization in Python <br>
