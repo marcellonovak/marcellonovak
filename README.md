@@ -24,7 +24,7 @@
   <!-- Stats card -->
   <td style="width: 50%; border: none;">
     <div style="vertical-align: top; width: 100%; height: 100%; display: block;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellonovak&theme=algolia&langs_count=6&layout=donut-vertical" alt="Top Langs" style="width: 100%; height: auto; display: block;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellonovak&theme=algolia&langs_count=6" alt="Top Langs" style="width: 100%; height: auto; display: block;">
     </div>
   </td>
   </tr>
