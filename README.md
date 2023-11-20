@@ -1,3 +1,9 @@
+<style>
+  table, td, tr {
+    border: none;
+  }
+</style>
+
 <table style="width: 100%;">
   <!-- Row for Name -->
   <tr>
@@ -9,7 +15,7 @@
   <!-- Row for Text and Stats Card -->
   <tr>
     <!-- Text block -->
-    <td style="width: 50%;">
+    <td style="width: 40%;">
       <p>I'm currently a sophomore at ERAU Prescott, majoring in Computer Engineering, with a minor in Mathematics.</p>
       <p>Recently, I assisted with coding custom python data processing tools for a weather research project at my college. 
         <a href="https://news.erau.edu/headlines/embry-riddle-researchers-use-machine-learning-to-tackle-monsoon-season">Read More Here</a></p>
@@ -22,7 +28,7 @@
     </td>
     
   <!-- Stats card -->
-  <td style="width: 50%;">
+  <td style="width: 60%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellonovak&theme=algolia" alt="Top Langs">
   </td>
   </tr>
