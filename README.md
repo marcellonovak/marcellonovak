@@ -11,7 +11,7 @@
     <!-- Text block -->
     <td style="width: 50%;">
       <p>I'm currently a sophomore at ERAU Prescott, majoring in Computer Engineering, with a minor in Mathematics.</p>
-      <p>Recently, I did some coding assistance for a weather research project at my college. <a href="https://news.erau.edu/headlines/embry-riddle-researchers-use-machine-learning-to-tackle-monsoon-season">Read More Here</a></p>
+      <p>Recently, I assisted with coding for a weather research project at my college. <a href="https://news.erau.edu/headlines/embry-riddle-researchers-use-machine-learning-to-tackle-monsoon-season">Read More Here</a></p>
       <p>Some of the things I'm currently interested in: <br>
          &emsp; - Advanced data structures and optimization in Python <br>
          &emsp; - Learning ReactJS to use as a framework for my <a href="https://marcellonovak.com">Portfolio Website</a> <br>
