@@ -10,9 +10,7 @@
   <tr style="border: none;">
     <!-- Text block -->
     <td style="width: 50%; border: none; vertical-align: top;">
-      <p>I'm currently a sophomore at ERAU Prescott, majoring in Computer Engineering, with a minor in Mathematics.</p>
-      <p>Recently, I assisted with coding custom python data processing tools for a weather research project at my college. 
-        <a href="https://news.erau.edu/headlines/embry-riddle-researchers-use-machine-learning-to-tackle-monsoon-season">Read More Here</a></p>
+      <p>I'm currently a junior at ERAU Prescott, majoring in Computer Engineering, with a minor in Mathematics.</p>
       <p>Some of the things I'm currently interested in: <br>
          &emsp; - Advanced data structures and optimization in C++ <br>
          &emsp; - Learning ReactJS to use as a framework for my <a href="https://marcellonovak.com">Portfolio Website</a> <br>
