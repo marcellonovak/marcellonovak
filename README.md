@@ -14,9 +14,9 @@
       <p>Recently, I assisted with coding custom python data processing tools for a weather research project at my college. 
         <a href="https://news.erau.edu/headlines/embry-riddle-researchers-use-machine-learning-to-tackle-monsoon-season">Read More Here</a></p>
       <p>Some of the things I'm currently interested in: <br>
-         &emsp; - Advanced data structures and optimization in Python <br>
+         &emsp; - Advanced data structures and optimization in C++ <br>
          &emsp; - Learning ReactJS to use as a framework for my <a href="https://marcellonovak.com">Portfolio Website</a> <br>
-         &emsp; - Linux/VMs, creating domain controllers and a NAS, to freshen my CCNP skills
+         &emsp; - Linux/VMs, creating domain controllers and a NAS
       </p>
       <p>Feel free to sift through the snippets of code I've posted on here!</p>
     </td>
