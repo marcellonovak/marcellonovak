@@ -13,7 +13,7 @@
       <p>I'm currently a junior at ERAU Prescott, majoring in Computer Engineering, with a minor in Mathematics.</p>
       <p>Some of the things I'm currently interested in: <br>
          &emsp; - Advanced data structures and optimization in C++ <br>
-         &emsp; - Learning industry standards for robust programming and team collaboration <br>
+         &emsp; - Learning industry standards for robust programming and collaboration <br>
          &emsp; - Tinkering with ReactJS to use as a framework for my <a href="https://marcellonovak.com">Portfolio Website</a> <br>
          &emsp; - Linux/VMs, creating domain controllers and a NAS
       </p>
