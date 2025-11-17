@@ -31,8 +31,7 @@
 
 <!-- Visitor count -->
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/marcellonovak/count.svg" />
+  ![](https://hit.yhype.me/github/profile?account_id=30155352&color=blue)
 </p>
 
 <!-- Snake Game -->
