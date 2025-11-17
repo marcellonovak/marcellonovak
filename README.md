@@ -11,11 +11,12 @@
     <!-- Text block -->
     <td style="width: 50%; border: none; vertical-align: top;">
       <p>I'm currently a junior at ERAU Prescott, majoring in Computer Engineering, with a minor in Mathematics.</p>
-      <p>Some of the things I'm currently interested in: <br>
-         &emsp; - Advanced data structures and optimization in C++ <br>
-         &emsp; - Learning industry standards for robust programming and collaboration <br>
-         &emsp; - Tinkering with ReactJS to use as a framework for my <a href="https://marcellonovak.com">Portfolio Website</a> <br>
-         &emsp; - Linux/VMs, creating domain controllers and a NAS
+      <p>Some of the things I'm currently working on/learning: <br>
+        &emsp; - Realtime systems design in OpenArbor DEOS
+        &emsp; - LLM feature selection and tuning for generalization
+        &emsp; - DO-178 software standards for robust programming and collaboration <br>
+        &emsp; - Tinkering with ReactJS to use as a framework for my <a href="https://marcellonovak.com">Portfolio Website</a> <br>
+        &emsp; - Linux/VMs, creating domain controllers and a NAS
       </p>
       <p>Feel free to sift through the snippets of code I've posted on here!</p>
     </td>
