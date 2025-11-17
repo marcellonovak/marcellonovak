@@ -28,15 +28,16 @@
   </td>
   </tr>
 </table>
-
-<!-- Visitor count -->
-<p align="center"> 
-  ![](https://hit.yhype.me/github/profile?account_id=30155352&color=blue)
-</p>
-
+  
 <!-- Snake Game -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcellonovak/marcellonovak/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcellonovak/marcellonovak/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marcellonovak/marcellonovak/output/github-contribution-grid-snake.svg" style="width: 100%; display: block;">
 </picture>
+
+<!-- Visitor count -->
+<div align="center">
+  <img alt="Visitor Stats" 
+      src="https://widgetbite.com/stats/<marcellonovak>"/>  
+</div>
